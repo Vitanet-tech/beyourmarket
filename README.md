@@ -17,7 +17,7 @@ Development Branch (`dev`)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ojc6mh88o61cvlgw/branch/dev?svg=true)](https://ci.appveyor.com/project/beyourmarket/beyourmarket/branch/dev)
 
-## Installation ##
+##### Installation #####
 
 [Running BeYourMarket with Visual Studio 2013](https://beyourmarket.atlassian.net/wiki/display/BYM/Installation)
 
@@ -39,7 +39,7 @@ username: demo@beyourmarket.com
 password: Password
 
 
-## RoadMap ##
+#### RoadMap ####
 
 #### v. 1.31beta - Support Ratings/Comments/Mail Inbox  (September/October 2015)
 - Facebook authentication integration
