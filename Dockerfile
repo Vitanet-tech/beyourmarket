@@ -15,4 +15,4 @@ FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /source
 COPY --from=build /source ./
 EXPOSE 443
-ENTRYPOINT ["dotnet", "EquinoxProject.dll"]
+ENTRYPOINT ["dotnet", "BeYourMarket.Web.dll"]
